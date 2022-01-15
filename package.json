@@ -39,7 +39,7 @@
     "ionicons": "~2.0.1",
     "js-cookie": "^2.2.1",
     "lodash.groupby": "^4.6.0",
-    "marked": "2.0.3",
+    "marked": "4.0.10",
     "md5": "^2.3.0",
     "posthog-js": "^1.13.7",
     "prosemirror-markdown": "1.5.1",
